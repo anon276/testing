@@ -1,0 +1,11 @@
+{
+    "EMAIL" : "",
+    "OWNER" : "id_here",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process"
+    }
+}
